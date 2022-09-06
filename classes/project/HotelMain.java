@@ -8,5 +8,6 @@ public class HotelMain {
         System.out.println(guestOne.name);
         System.out.println(guestTwo.name);
         roomOne.checkIn(guestOne);
+        System.out.println(roomOne.totalGuests);
     }
 }

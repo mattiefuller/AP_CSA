@@ -8,7 +8,7 @@ public class Person{ //person class
     Person(){
         height = 5.6;
         age = 18;
-        name = "guestOne";
+        name = "Guest";
         hairColor = "blonde";
     }
 
