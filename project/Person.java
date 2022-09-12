@@ -1,4 +1,4 @@
-package classes.project;
+
 public class Person{ //person class
     double height;
     int age;
@@ -18,6 +18,5 @@ public class Person{ //person class
         name = n;
         hairColor = hC;
     }
-
 
 }
